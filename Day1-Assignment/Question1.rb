@@ -1,3 +1,5 @@
+1. wap to display number is prime or not
+
 def is_prime?(num)
   return false if num <= 1
   (2..Math.sqrt(num)).each do |i|
