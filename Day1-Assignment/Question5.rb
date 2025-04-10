@@ -1,3 +1,5 @@
+5. Write a program to find IP address class
+
 def ip_address_class(ip)
 
   octet = ip.split('.').first.to_i
