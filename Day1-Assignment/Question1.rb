@@ -1,4 +1,4 @@
-1. wap to display number is prime or not
+#1. wap to display number is prime or not
 
 def is_prime?(num)
   return false if num <= 1
