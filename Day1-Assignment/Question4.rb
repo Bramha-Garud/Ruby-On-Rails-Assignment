@@ -1,4 +1,4 @@
-4. Regex for mobile number, email address, name, gender(M / F) and  amount
+#4. Regex for mobile number, email address, name, gender(M / F) and  amount
 
 def check_input(val, regex, field_name)
   if val.match?(regex)
