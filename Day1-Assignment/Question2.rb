@@ -20,5 +20,9 @@ end
 
 print "Enter your grade:"
 grade = gets.chomp.to_i
+if grade == Integer 
+  puts "You are in: #{school_level(grade)}"
+else
+  puts "Invalid Inputs Please Enter Valid Grade"
+end
 
-puts "You are in: #{school_level(grade)}"

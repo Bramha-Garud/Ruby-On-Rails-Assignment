@@ -10,10 +10,15 @@ end
 
 print "Enter a number: "
 num = gets.chomp.to_i
-
-if is_prime?(num)
-  puts "#{num} is a prime number."
+if num == Integer 
+  if is_prime?(num)
+    puts "#{num} is a prime number."
+  else
+    puts "#{num} is not a prime number."
+  end
 else
-  puts "#{num} is not a prime number."
+  puts "Invalid Input"
 end
+
+
 
