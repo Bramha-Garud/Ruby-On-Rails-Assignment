@@ -1,0 +1,106 @@
+[
+  {
+    "name": "Utopia",
+    "population": 50000000,
+    "gdp": 90000000000,
+    "states": 10,
+    "army_strength": 200000,
+    "development_status": "developed"
+  },
+  {
+    "name": "NowhereLand",
+    "population": 12000000,
+    "gdp": 45000000000,
+    "states": 5,
+    "army_strength": 20000,
+    "development_status": "developing"
+  },
+  {
+    "name": "India",
+    "population": 140000000000,
+    "gdp": 3000000000,
+    "states": 28,
+    "army_strength": 1500000,
+    "development_status": "developing"
+  },
+  {
+    "name": "Germany",
+    "population": 83166711,
+    "gdp": 3845630000000,
+    "states": 16,
+    "army_strength": 180000,
+    "development_status": "developed"
+  },
+  {
+    "name": "France",
+    "population": 67391582,
+    "gdp": 2715510000000,
+    "states": 18,
+    "army_strength": 220000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Italy",
+    "population": 60262770,
+    "gdp": 2000000000000,
+    "states": 20,
+    "army_strength": 150000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Spain",
+    "population": 46719142,
+    "gdp": 1395000000000,
+    "states": 17,
+    "army_strength": 125000,
+    "development_status": "developed"
+  },
+  {
+    "name": "United Kingdom",
+    "population": 67886011,
+    "gdp": 2825200000000,
+    "states": 4,
+    "army_strength": 150000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Poland",
+    "population": 38386000,
+    "gdp": 670000000000,
+    "states": 16,
+    "army_strength": 120000,
+    "development_status": "developing"
+  },
+  {
+    "name": "Sweden",
+    "population": 10353442,
+    "gdp": 602000000000,
+    "states": 21,
+    "army_strength": 25000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Netherlands",
+    "population": 17134872,
+    "gdp": 902000000000,
+    "states": 12,
+    "army_strength": 40000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Switzerland",
+    "population": 8600000,
+    "gdp": 824000000000,
+    "states": 26,
+    "army_strength": 10000,
+    "development_status": "developed"
+  },
+  {
+    "name": "Belgium",
+    "population": 11589623,
+    "gdp": 533000000000,
+    "states": 3,
+    "army_strength": 30000,
+    "development_status": "developed"
+  }
+]
